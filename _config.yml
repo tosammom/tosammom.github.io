@@ -54,8 +54,8 @@ social-network-links:
   github: daattali
   twitter: daattali
   patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  youtube: 
+  whatsapp: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: <HAJINFAM 추천> 갓성비 HIT상품 추천
 
 ###########################
 # --- General options --- #
@@ -256,7 +256,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "ASIA/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
