@@ -20,11 +20,9 @@ author: HAJIN
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  HOME: "https://hajinfam.github.io/"
+  ALIEXPRESS 비교 : "https://s.click.aliexpress.com/e/_DE59pjb"
+  COUPANG 비교: "https://link.coupang.com/a/bxF80o"
 
 ################
 # --- Logo --- #
