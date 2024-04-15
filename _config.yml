@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: HAJINFAM DEAL
+title: TOSAMMOM HOTDEAL
 
 # Your name to show in the footer
-author: HAJIN
+author: TOSAMMOM
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  HOME: "https://hajinfam.github.io/"
+  HOME: "https://tosammom.github.io/"
   ♥ALIEXPRESS 비교 : "https://s.click.aliexpress.com/e/_DE59pjb"
   ♡COUPANG 비교: "https://link.coupang.com/a/bxF80o"
 
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "HAJINFAM"
+url-pretty: "TOSAMMOM"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
